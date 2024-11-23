@@ -14,7 +14,7 @@ Before running the application, ensure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AtharvaKulkarniIT/mern-todo-app.git
+https://github.com/KachhadiyaAbhishek/Todo-List.git
 ```
 
 ### 2. Install dependencies
